@@ -36,6 +36,7 @@ public class MainActivity extends ActionBarActivity {
     public void submitOrder(View view) {
         String priceMessage = "Free";
         displayMessage(priceMessage);
+        //test
     }
 
     /**
